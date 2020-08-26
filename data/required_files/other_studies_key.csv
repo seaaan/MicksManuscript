@@ -1,0 +1,9 @@
+Study,Paired,Organ,Sample,Phasing,Notes
+GSE80455,Unpaired,Endocervix,Tissue,Endometrial dating,
+GSE29981,Unpaired,Endometrium,Glandular epithelium,??,
+GSE28044,Unpaired,Fallopian tube,Epithelium,??,BRCA+ and BRCA-
+GSE86491,Paired,Endometrium,Tissue,??,
+PMID26750085,Paired,Vagina,Tissue,Hormone levels,
+GSE6364,Unpaired,Endometrium,Tissue,??,Excluded samples from women with endometriosis and early secretory samples
+GSE122248-ENDO,Unpaired,Endocervix,Tissue,Hormone levels and histology,
+GSE122248-ECTO,Unpaired,Ectocervix,Tissue,Hormone levels and histology,
